@@ -1,7 +1,2 @@
 Tugas Aplikasi Komputer
-
-
-<!---Tugas Aplikasi Komputer
-Tuziaafianyresta/Tuziaafianyresta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Aljabar dengan EMT](https://github.com/Tuziaafianyresta/Tuziaafianyresta/blob/main/Tuzia%20Afiany%20Resta_23030630030_EMT%20Aljabar.pdf)
